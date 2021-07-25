@@ -24,7 +24,7 @@ SECRET_KEY = '_^=*#mxbtf-5ipk=)_61u&ol&fpl!0%#ktbuy1f-r1z^j4*u43'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['alphasabawu.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['alphasabawu.herokuapp.com', '127.0.0.1', 'www.alphasabawu.co.zw', 'alphasabawu.co.zw']
 
 # Application definition
 
